@@ -1,5 +1,7 @@
 # CTA After Blog Post - WordPress Plugin
 
+![GitHub](https://img.shields.io/github/license/hmtechnology/cta-after-blog-post-wordpress)
+
 ## Description
 This WordPress function provides a simple and effective way to add a Call to Action (CTA) section after a blog post. You can use it to promote a specific page or action to your readers by displaying a well-designed CTA container with a title, description, and a prominent button.
 
