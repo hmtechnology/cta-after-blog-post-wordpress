@@ -1,4 +1,4 @@
-# CTA After Blog Post - WordPress Plugin
+# CTA After Blog Post
 
 ![GitHub](https://img.shields.io/github/license/hmtechnology/cta-after-blog-post-wordpress)
 
