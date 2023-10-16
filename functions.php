@@ -27,6 +27,8 @@ function add_cta_after_post( $content ) {
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             max-width: 500px;
             clear: both;
+            position: relative; 
+            top: 20px;
         }
         
         .cta-container h2 {
